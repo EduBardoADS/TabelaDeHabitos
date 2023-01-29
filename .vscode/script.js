@@ -23,6 +23,8 @@ const data = JSON.parse(localStorage.getItem("NLWSetup@habits")) || {}
 nlwSetup.setData(data)
 nlwSetup.load()
 
+/*Teste para a Tabela */
+
 /*(const data = {
   academia: [
     "01-20",
